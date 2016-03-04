@@ -1,5 +1,5 @@
 # ApplePayDemo
-Apple Pay Demo.
+ Pay Demo with Swift.
 
 ````
 In me the tiger sniffs the rose.
